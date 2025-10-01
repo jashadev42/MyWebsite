@@ -54,8 +54,8 @@ h2 {
 }
 
 .project-card {
-  background: rgb(54, 49, 49);
-  border: 1px solid #595151;
+  background: rgb(0, 0, 0);
+  border: 1px solid #e4dcdc;
   border-radius: 10px;
   padding: 15px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
