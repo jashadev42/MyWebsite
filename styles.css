@@ -2,13 +2,13 @@ body {
     font-family: 'Segoe UI', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #070322dc;
+    background-color: #1a031ede;
     color: rgb(250, 250, 250);
 }
 
 .hero {
     background-color: #7a858426;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 60px 20px;
     text-align: center;
     background-image: url('banner1.jpg');
@@ -61,6 +61,11 @@ h2 {
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
   margin-top: 10px;
 }
+
+a {
+    color: #1e40af; /* default link color */
+    text-decoration: none; /* removes underline (optional) */
+  }
 
 footer {
     color: white;

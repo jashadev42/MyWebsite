@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: "QGIS AI Chatbot",
-    description: "A Swift app to log workouts, macros, meals, and visualize fitness data with charts.",
+    description: "QGIS-focused chatbot using Streamlit, FAISS, Docker, and AWS Bedrock, implementing RAG to improve domain-specific accuracy.",
     link: "https://github.com/jashadev42/summer-project2024"
   }
 ];
